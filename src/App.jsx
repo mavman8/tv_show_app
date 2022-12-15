@@ -66,7 +66,7 @@ export function App(){
             <div className={s.header}>
                 <div className="row">
                     <div className="col-4">
-                        <Logo img={logoImg} title="What to Watch" subtitle="Find a show you may like"/>
+                        <Logo img={logoImg} title="What to Watch Now" subtitle="Find a show you may like"/>
                     </div>
 
 
